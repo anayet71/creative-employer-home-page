@@ -1,0 +1,543 @@
+@media(max-width:575px) {
+    #how {
+        padding-bottom: 50px;
+    }
+
+    .how_text h2 {
+        font-size: 30px;
+    }
+
+    .how_text p {
+        font-size: 16px;
+    }
+
+    .frame_main {
+        padding-top: 10px;
+    }
+
+    .rect {
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    .text_one h5 {
+        padding-left: 35px;
+        padding-top: 20px;
+    }
+
+    .rect::after {
+        display: none;
+    }
+
+    .rect_two::after {
+        display: none;
+    }
+
+    .text_two h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+
+    .rect_two {
+        margin-left: 40px;
+        top: 250px;
+    }
+
+    .rect_three {
+        top: 670px;
+        margin-left: 40px;
+    }
+
+    .text_three h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+
+    .one {
+
+        height: 294px;
+        background-color: rgb(94, 94, 94);
+        margin-top: 10px;
+
+    }
+
+    #discover {
+        padding-top: 50px;
+    }
+
+    .discover_part p {
+        padding-right: 200px;
+    }
+
+    .get_text h5 {
+        padding-top: 50px;
+    }
+
+    .get_text p {
+        padding-top: 10px;
+        padding-right: 200px;
+    }
+
+    .boxOne::after {
+        display: none;
+    }
+
+    .boxTwo::after {
+        display: none;
+    }
+
+    /* invest */
+    #invest {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .invest_text h2 {
+        font-size: 30px;
+    }
+
+    .invest_text p {
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .talent_text h2 {
+        padding-top: 50px;
+        font-size: 30px;
+    }
+
+    /* simplify */
+    #simplify {
+        padding-top: 50px;
+    }
+
+    .simplify_img {
+        display: none;
+    }
+
+    .simplify_text h2 {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-right: 200px;
+    }
+
+    .simplify_text p {
+        padding-left: 30px;
+    }
+    .talent_text{
+        text-align: center;
+    }
+    .talent_text h2{
+        margin-bottom: 20px;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /* How */
+    #how {
+        padding-bottom: 50px;
+    }
+
+    .how_text h2 {
+        font-size: 30px;
+    }
+
+    .rect {
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    .text_one h5 {
+        padding-left: 35px;
+        padding-top: 20px;
+    }
+
+    .rect::after {
+        display: none;
+    }
+
+    .rect_two::after {
+        display: none;
+    }
+
+    .text_two h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+
+    .rect_two {
+        margin-left: 40px;
+        top: 250px;
+    }
+
+    .rect_three {
+        top: 620px;
+        margin-left: 40px;
+    }
+
+    .text_three h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+   
+    #discover {
+        padding-top: 50px;
+    }
+
+    .discover_part p {
+        padding-right: 0;
+    }
+
+    .get_text p {
+        padding-right: 0;
+    }
+
+    .boxOne::after {
+        display: none;
+    }
+
+    .boxTwo::after {
+        display: none;
+    }
+    .talent_text{
+        text-align: center;
+    
+    }
+
+    .simplify_img img {
+        width: 100%;
+    }
+
+    .simplify_text h2 {
+        padding-left: 30px;
+    }
+
+    .simplify_text p {
+        padding-left: 30px;
+    }
+    #invest {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .invest_text h2 {
+        font-size: 30px;
+    }
+
+    .invest_text p {
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+       .talent_text{
+        text-align: center;
+    }
+    .talent_text h2{
+        margin-bottom: 20px;
+    }
+
+
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    /* How start */
+    #how {
+        padding-bottom: 50px;
+    }
+
+    .text_one h5 {
+        padding-left: 20px;
+    }
+
+    .text_two h5 {
+        padding-top: 130px;
+        padding-left: 15px;
+    }
+
+    .text_three h5 {
+        padding-top: 70px;
+    }
+
+    /* How end */
+
+
+    #invest {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .invest_text h2 {
+        font-size: 30px;
+    }
+
+    .invest_text p {
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .talent_text h2 {
+        padding-right: 70px;
+    }
+
+    .talent_text p {
+        padding-right: 0;
+    }
+
+
+    .discover_part p {
+        padding-right: 160px;
+    }
+
+    ;
+
+    .get_text p {
+        padding-right: 100px;
+    }
+
+}
+
+@media(min-width:1200px) and (max-width:1399px) {
+    .invest_text p {
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .talent_text h2 {
+        padding-right: 100px;
+    }
+
+    .talent_text p {
+        padding-right: 100px;
+    }
+
+    .simplify_text h2 {
+        padding-right: 0;
+    }
+    .simplify_text p {
+        padding-right: 20px;
+    }
+
+}
+
+
+
+@media(min-width:576px) and (max-width:767px) {
+    /* How start*/
+
+    #how {
+        padding-bottom: 50px;
+    }
+
+    .how_text h2 {
+        font-size: 30px;
+    }
+
+    .how_text p {
+        font-size: 16px;
+    }
+
+    .frame_main {
+        padding-top: 10px;
+    }
+
+    .rect {
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    .text_one h5 {
+        padding-left: 35px;
+        padding-top: 20px;
+    }
+
+    .rect::after {
+        display: none;
+    }
+
+    .rect_two::after {
+        display: none;
+    }
+
+    .text_two h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+
+    .rect_two {
+        margin-left: 40px;
+        top: 250px;
+    }
+
+    .rect_three {
+        top: 640px;
+        margin-left: 40px;
+    }
+
+    .text_three h5 {
+        padding-top: 130px;
+        padding-left: 35px;
+    }
+
+    /* How end */
+
+    /* Invest start */
+    #invest {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .invest_text h2 {
+        font-size: 30px;
+    }
+
+    .invest_text p {
+        padding-top: 10px;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .talent_text{
+        text-align: center;
+    }
+    .talent_text h2{
+        margin-bottom: 20px;
+    }
+
+
+    /* Invest end */
+
+    /* Simply start */
+    #simplify {
+        padding-top: 50px;
+    }
+
+    .simplify_text h2 {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-right: 300px;
+    }
+
+    .simplify_text p {
+        padding-left: 30px;
+    }
+
+    .simplify_img {
+        padding-left: 30px;
+    }
+
+    /* Simply end */
+
+    #discover {
+        padding-top: 50px;
+    }
+
+    .discover_part p {
+        padding-right: 0;
+    }
+
+    .get_text p {
+        padding-right: 0;
+    }
+
+    .boxOne::after {
+        display: none;
+    }
+
+    .boxTwo::after {
+        display: none;
+    }
+
+
+
+}
+
+
+
+
+
+
+@media (max-width: 1000px) {
+    .bannerImg {
+        width: 100%;
+    }
+
+    .banner-title {
+        font-size: 2rem;
+    }
+
+    .nav-container {
+        padding: 5px 0;
+        margin-bottom: 25px;
+    }
+
+    .banner-details {
+        font-size: 16px;
+        padding: 10px 0 20px 0;
+    }
+
+    .banner-btn-one,
+    .banner-btn-two {
+        padding: 10px;
+        font-weight: 16px;
+    }
+
+    .bannerImg {
+        width: 50%
+    }
+
+    .why-section-title p {
+        text-align: left;
+        font-size: 16px;
+
+    }
+
+    .grayBox {
+        width: 78%;
+        margin-top: 0;
+    }
+
+    .why-fact {
+        padding-top: 40px;
+    }
+
+    .why-fact h5 {
+        padding: 15px 0 5px 0;
+    }
+}
+
+@media (min-width: 989px) and (max-width: 1200px) {
+    .banner-title {
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 890px) and (max-width: 990px) {
+    .bannerImg {
+        width: 50% !important
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.8px) {
+    .navbar-custom {
+        margin-top: 20px;
+    }
+
+    .rLogo {
+        margin-left: 30px;
+        margin-top: 7px;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1399px) {
+    .nav-custom-item {
+        padding: 0 10px;
+    }
+
+}
